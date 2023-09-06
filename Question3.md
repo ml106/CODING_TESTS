@@ -1,3 +1,8 @@
+---
+layout: default
+title: Question Three
+---
+
 <style> 
     body { -webkit-user-select: none; /* Chrome, Safari and Opera */ 
     -moz-user-select: none; /* Firefox */ 
