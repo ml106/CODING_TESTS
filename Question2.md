@@ -38,6 +38,7 @@ The solution should be modular, well-structured and the code should be commented
 | -3    | m2    |
 | b.txt |       
 
-Output:
-{'a':12, 'b':10} a dictionary containing filenames as keys and their corresponding sums as the values.
+**Output**:
+``{'a':12, 'b':10}`` 
+a dictionary containing filenames as keys and their corresponding sums as the values.
 
