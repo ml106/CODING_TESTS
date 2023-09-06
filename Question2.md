@@ -44,6 +44,6 @@ The solution should be modular, well-structured and the code should be commented
 | b.txt |       
 
 **Output**:
-``{'a':12, 'b':10}`` 
+``{'a': 12.0, 'b': 10.0}`` 
 a dictionary containing filenames as keys and their corresponding sums as the values.
 
