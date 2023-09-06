@@ -42,8 +42,9 @@ Your task is to perform the following operations on the dataset:
 - Comment your code appropriately for better understanding.
 - Your solution should have optimal time and space complexity.
 - Submit the updated csv file
+
+
 ---
-**Example**:
 
 ### Input Demo
 <img src="https://cdn.discordapp.com/attachments/945567201518317581/1148966849204211852/image.png" alt="input1" style="display:inline-block; height:auto;"> 
