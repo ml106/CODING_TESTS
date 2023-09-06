@@ -10,7 +10,7 @@
 
 You are given a dataframe (**‘table_data.csv’**) with five columns: ID, CSE1, CSE2, CSE3, CSE4, and SECTION. 
 
-[get the file](https://tempfile.io/en/wH6isYBo0GXyAki/file)
+[Get the file](https://drive.google.com/file/d/1-Ez5aLv2IynzkAR-pFpD-f5LzuPktYRL/view?usp=sharing)
 
 - The ID represents the student's identity. 
 - The CSE1, CSE2, CSE3, and CSE4 columns represent four different subjects and contain the respective scores of students with a prefix and suffix garbage values.
@@ -45,6 +45,7 @@ Your task is to perform the following operations on the dataset:
 ---
 **Example**:
 
-Input: <img src="https://cdn.discordapp.com/attachments/945567201518317581/1148966849204211852/image.png" alt="input1" style="display:inline-block; height:auto;"> 
-
-Output: <img src="https://cdn.discordapp.com/attachments/945567201518317581/1148966890518085653/image.png" alt="output" style="display:inline-block; height:auto;">
+### Input Demo
+<img src="https://cdn.discordapp.com/attachments/945567201518317581/1148966849204211852/image.png" alt="input1" style="display:inline-block; height:auto;"> 
+### Output Demo
+<img src="https://cdn.discordapp.com/attachments/945567201518317581/1148966890518085653/image.png" alt="output" style="display:inline-block; height:auto;">
