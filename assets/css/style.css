@@ -34,3 +34,10 @@ body {
     font-size: 0.8em;
     margin-top: auto; /* This makes the footer stick to the bottom */
 }
+
+main {
+    margin: 20px auto; /* This will give 20px margin top and bottom, and auto margin left and right */
+    padding: 0 20px; /* This will give no padding top and bottom, and 20px padding left and right */
+    max-width: 80%; /* This will restrict your main content to 80% of the viewport width */
+    flex-grow: 1; /* This will allow the main content to take up remaining vertical space in the flex container */
+}
