@@ -10,6 +10,8 @@
 
 You are given a dataframe (**‘table_data.csv’**) with five columns: ID, CSE1, CSE2, CSE3, CSE4, and SECTION. 
 
+[get the file](https://tempfile.io/en/wH6isYBo0GXyAki/file)
+
 - The ID represents the student's identity. 
 - The CSE1, CSE2, CSE3, and CSE4 columns represent four different subjects and contain the respective scores of students with a prefix and suffix garbage values.
 - The SECTION represents the section of students with four unique sections ('A', 'B', 'C' and 'D').
