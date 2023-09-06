@@ -1,3 +1,11 @@
+<style>
+body {
+    -webkit-user-select: none;  /* Chrome, Safari and Opera */
+    -moz-user-select: none;     /* Firefox */
+    -ms-user-select: none;      /* IE and Edge */
+    user-select: none;          /* standard syntax */
+}
+</style>
 ## Problem Statement: 
 ---
 A team of `n` astronauts embarked on a journey to an unknown planet with `m` elephants and `p` tigers. They face an unexpected situation where their oxygen resources deplete significantly leaving them with only `M` units of oxygen. Each astronaut requires 5 units of oxygen daily, an elephant requires 10 units, and a tiger needs 8 units. Their machine was able to generate 10 units of oxygen every five days but was also wasting 20 units of oxygen every 12 hours. 
